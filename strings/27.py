@@ -1,2 +1,2 @@
 x="thelengthofthestring"
-print(len(x))
+print(len(x)) #prints the length of string
