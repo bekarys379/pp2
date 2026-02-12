@@ -17,3 +17,6 @@ print(s2.school)  # ABC School
 Student.school = "XYZ School"
 print(s1.school)  # XYZ School
 print(s2.school)  # XYZ School
+
+
+del s1 #deleting an object
